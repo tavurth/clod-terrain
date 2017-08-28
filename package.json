@@ -1,0 +1,27 @@
+{
+  "name": "clod-terrain",
+  "version": "1.0.0",
+  "description": "CLOD Terrain in THREE.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavurth/clod-terrain.git"
+  },
+  "keywords": [
+    "THREE",
+    "CLOD",
+    "Terrain"
+  ],
+  "author": "Will Whitty <Tavurth@gmail.com> (http://github.com/tavurth)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tavurth/clod-terrain/issues"
+  },
+  "homepage": "https://github.com/tavurth/clod-terrain#readme",
+  "dependencies": {
+    "three": "^0.87.1"
+  }
+}
