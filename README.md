@@ -1,4 +1,4 @@
-## CLOD-Terrain
+## [CLOD-Terrain](https://en.wikipedia.org/wiki/Level_of_detail)
 
 This is a project I worked on in my spare time, using THREE.js
 
